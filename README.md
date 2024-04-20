@@ -2,7 +2,7 @@
 
 The COVID-19 pandemic was declared on March 11th, 2020 and is currently ongoing, with cases appearing as early as October 2019.
 
-The goal of this project was explore the statisical data provided by the World Health Organization regarding COVID cases, deaths, and vaccinations, in order to encapsulate the COVID-19 pandemic into an easily understandable and interactive dashboard. Throughout this project, I was able to showcase my knowledge of SQL Queries for the purpose of cleaning and transforming data, then translating that into designing a usable dashboard with Tableau. 
+The goal of this project was explore the statisical data provided by [Our World in Data](https://ourworldindata.org/coronavirus) regarding COVID cases, deaths, and vaccinations, in order to encapsulate the COVID-19 pandemic into an easily understandable and interactive dashboard. Throughout this project, I was able to showcase my knowledge of SQL Queries for the purpose of cleaning and transforming data, then translating that into designing a usable dashboard with Tableau. 
 
 ![SQL COVID Dashboard](https://github.com/r-kish/COVID19-Analysis/blob/main/COVID_Dashboard.png)
 
