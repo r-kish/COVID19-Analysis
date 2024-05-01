@@ -6,6 +6,6 @@ The goal of this project was explore the statisical data provided by [Our World 
 
 ![SQL COVID Dashboard](https://github.com/r-kish/COVID19-Analysis/blob/main/COVID_Dashboard.png)
 
-Data is extracted from the publicly accessible WHO API for COVID-19 data. Date range is from January 2020 - December 2023. Datasets were cleaned using Microsoft SQL Server, with queries exported into Excel then loaded into Tableau for visualization.
+Data is extracted from the publicly accessible Our World in Data API for COVID-19 data. Date range is from January 2020 - December 2023. Datasets were cleaned using Microsoft SQL Server, with queries exported into Excel then loaded into Tableau for visualization.
 
 You may view the finished, interactive dashboard on Tableau Public here: [COVID-19 Statistical Analysis Dashboard](https://public.tableau.com/app/profile/richard.kish/viz/SQLCovidDashboard_17107162902290/Dashboard1)
